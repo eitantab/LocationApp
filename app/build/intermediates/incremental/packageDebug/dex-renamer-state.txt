@@ -1,0 +1,7 @@
+#Tue Jan 10 13:58:53 IST 2017
+base.0=C\:\\Users\\Efi\\Desktop\\New folder (2)\\LocationProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5dcce0423f1343a1d21efe758650fae40c7e360d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Efi\\Desktop\\New folder (2)\\LocationProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_bb3521ccad7ebd8ab94c6597988cc43f23e314e7\\classes.dex
+base.1=C\:\\Users\\Efi\\Desktop\\New folder (2)\\LocationProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_bb3521ccad7ebd8ab94c6597988cc43f23e314e7
+file.0=C\:\\Users\\Efi\\Desktop\\New folder (2)\\LocationProject\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5dcce0423f1343a1d21efe758650fae40c7e360d\\classes.dex

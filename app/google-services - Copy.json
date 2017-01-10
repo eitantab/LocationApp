@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "633791666969",
+    "firebase_url": "https://locationproject-6b6d6.firebaseio.com",
+    "project_id": "locationproject-6b6d6",
+    "storage_bucket": "locationproject-6b6d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633791666969:android:b45fc9d1c9e5420f",
+        "android_client_info": {
+          "package_name": "com.callmyphone.edut.locationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633791666969-bq5ec7o6qnb8pi1nrh7ptvd14hhabh8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA51adSa4Bob5LGTezUAMFT4GlrNGLWN-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_7107f0d4a4ba8fa8a151a8b0bd4c516bb289d462\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_3b845354eca8e94c7060a740e72830a854df0f92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_8bfe5d5ef9da559e7c112464d9c627bae9fe986f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_5cd654a6ea80838175847346f197e93d47f16d49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_5f3c510d125f588183fe02494685a9293f1b794a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_1950051934e37c5ce4736c9bd98b714f2defd58c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_e518c66f6e47653b13735f890c74b56c50744ec1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_25790ab1a5d198c7a799a5e80eb9610139cd376e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_577bcaed7addae26f9c546e43c32451758ea2b7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_1889aaa4d8316f639a4ad8998db711c51ef8a7b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_adeedb2abdd370e8d01860c16a7b3829cf235816\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_0d45ff02b34b104255eaac5158ae4c0ef6a96696\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_db163f670c8a554d858aeced938f4b92e2deb605\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_bb2359afb41540a1cf333084b66d2850cadd2df4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_aff4d7176172986e64f22137cea7420aa73b75b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_7b6b9aada3d6c9058fa8456216ffdbd3a1f7ac7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_cd1e3d6e1314e559ce6ba3f0da8230c374de9c38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_8133ba3f196b42d5a58f6d9037f03343e0f89bab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_a1c6abe2a3067e93d36194a6ecdc60bfcd5004a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_946c878ceb64863e404bfc12986cd5baea7bf24d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_561d4932d5350db3fa1011e414112fe3eb2dc373\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_e82e335f08a60b7cae3ec38c0e75912bdb724c4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_d32391497c53816e7eef43fc0df293695e249ddc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_b6c3ebbfa2ae3cdd204328a1d41129c1392c17a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_c9e0970f081176835c4f9a37d292b16281acde71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_678d07193a27833c70e7f80463545aab522ccacd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_21f3209d10efd17ef702a89acede23d008d60995\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_d79624c98c3e08b78b36850456a09b117afee6f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d4fa01ad3b3c14e5bc7fc018389f661586206eec">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bb3521ccad7ebd8ab94c6597988cc43f23e314e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_30ba40248e3c4de80451bc9b257bd18904b77463\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_b9c6372b7e4cb9288b8917ffd6bc71b72e462d4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_6821faffb80f374a1678619c3d7164e5a0233f2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_7eb4a4fd940fce763158494f18accf2abacb3ae5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_7c30dc558f8567ea68717c8b3f3369dd7df9f5de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_11c909ddd05e79937e8ea78169637b4064629474\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_ae890395f078c8b27546ac4bf59ff78cdce0993c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_75cf131d6d530150c59b1b43669fa69a0280ef20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_2c1a64dc03f78181f737c2aae262045517042312\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_b44c96eb0e3e5b9fa6dd0b043e8beaa5ef88132d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_a90640a48a50d9fdb198a01a9f8aa796f34d83a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_9cb13d8d5709cd1b716bcc4583352a2827983ba8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_5c0300f791472c13a11fd6a8952cea5e2c47db4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_7d3f4fd6f45bf5de12e9cf6a406b31a592099084\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_cd0b099b1f84af6dc9f4ffefdf85ceb1eb39dc1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_da68ecb4edb66b3bb372367806e1bebc948e2aae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_07055bc1dd6f9068693950688258292da9095fe3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_1d65538b2f3fd606d138bfb6304bf86cd277e1d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_19a05a449b8dbea147b2c71996fa367bdf64f0b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_91782a1fa1a912d2406f3f4752ba7d59fbacdde9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_0797848fad902a4a394c78684f61d4cc759701d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_50aaa67db0960888527161c3875951eb07d58e37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_8799f7e7e776515d9525bac7cd3f36f5623701a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_d412dae2924a03107a3121f6eb34a3646ebd1065\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_98d8e5fcb1e5fabda4377564b4e16928214bca41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_825afdd4b18b8cd61a3b5b1c4118e69d8a8701ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_7c06796f36e9081a5bb35993ac5ffd74d5b8f4b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_580bc39b9b1eaaac418b91f5700ba58cf021c5a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_34c31d479780fe9d033b377b6d7395b33c41fa24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4cb5aa3fd632cbe951633ffcb9c065b21d68e7e4">
+        <dex dex="C:\Users\Efi\Desktop\New folder (2)\LocationProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5dcce0423f1343a1d21efe758650fae40c7e360d\classes.dex" />
+    </item>
+
+</items>

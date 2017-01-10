@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "875003382178",
+    "firebase_url": "https://locationprojectfinal.firebaseio.com",
+    "project_id": "locationprojectfinal",
+    "storage_bucket": "locationprojectfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875003382178:android:b45fc9d1c9e5420f",
+        "android_client_info": {
+          "package_name": "com.callmyphone.edut.locationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875003382178-fjdfl06m2vqn8ld5j6t1omkqrqu3lrtl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.callmyphone.edut.locationproject",
+            "certificate_hash": "12B1511F8FC7AF4EB1B99B44016AD1FE93B915EB"
+          }
+        },
+        {
+          "client_id": "875003382178-e71pi0acu83pqcaulif1qsvopelr911v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNCuT9MTPDD3ebY6Bhm7zoj2-Axv2QoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875003382178-e71pi0acu83pqcaulif1qsvopelr911v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
